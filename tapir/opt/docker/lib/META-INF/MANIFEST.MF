@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Specification-Title: tapir
+Specification-Version: HEAD+20210311-1039
+Specification-Vendor: Jens Grassel
+Implementation-Title: tapir
+Implementation-Version: HEAD+20210311-1039
+Implementation-Vendor: Jens Grassel
+Implementation-Vendor-Id: com.wegtam
+Main-Class: com.wegtam.books.pfhais.tapir.Tapir
+Created-By: 15.0.1 (Oracle Corporation)
+
