@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.realityforge.org.jetbrains.annotations</groupId>
+  <artifactId>org.jetbrains.annotations</artifactId>
+  <version>1.7.0</version>
+  <packaging>jar</packaging>
+  <name>org.jetbrains.annotations: A minimal, J2CL compatible org.jetbrains.annotations library</name>
+  <description>org.jetbrains.annotations: A minimal, J2CL compatible org.jetbrains.annotations library</description>
+  <url>https://github.com/realityforge/org.jetbrains.annotations</url>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <connection>scm:git:git@github.com:realityforge/org.jetbrains.annotations.git</connection>
+    <developerConnection>scm:git:git@github.com:realityforge/org.jetbrains.annotations.git</developerConnection>
+    <url>git@github.com:realityforge/org.jetbrains.annotations.git</url>
+  </scm>
+  <issueManagement>
+    <url>https://github.com/realityforge/org.jetbrains.annotations/issues</url>
+    <system>GitHub Issues</system>
+  </issueManagement>
+  <developers>
+    <developer>
+      <id>realityforge</id>
+      <name>Peter Donald</name>
+    </developer>
+  </developers>
+  <dependencies>
+  </dependencies>
+</project>
